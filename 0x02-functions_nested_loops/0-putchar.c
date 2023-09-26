@@ -1,10 +1,10 @@
 /*
- * File: 0-holberton.c
+ * File: 0-main.c
  * Auth: Brennan D Baraban
  *
  */
 
-#include "holberton.h"
+#include" main.h"
 
 /**
  * main - Prints "Holberton" followed by a new line.

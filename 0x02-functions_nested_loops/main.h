@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_HEADER_FILE
+#define MAIN_HEADER_FILE
 
 /*
  * File: holberton.h
